@@ -1,0 +1,14 @@
+{
+  "ndls": {
+    "details": {
+      "driverNumber": "555555555",
+      "dob": "01/01/1990",
+      "mobile": {
+        "prefix": "086",
+        "postfix": "1112222"
+      },
+      "email": "john.doe@gmail.com",
+      "preferredContact": "email"
+    }
+  }
+}
